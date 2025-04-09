@@ -1,6 +1,9 @@
 # Content-Based Movie Recommender System
 
+![Screenshot from 2025-02-13 03-24-29](https://github.com/user-attachments/assets/8fe18ea6-2fd4-4177-991f-81c9724ca54f)
+
 This is a content-based movie recommender system built using a dataset of 5000 movies. The system recommends movies based on a given movie title by analyzing the content (overview, genre, keywords, cast, and crew) of the movies. The project is divided into four main parts: data preprocessing, model building, website building, and deployment.
+
 
 ## Features
 - Recommends top 10 similar movies based on the selected movie title.
@@ -45,9 +48,6 @@ The website was built using **Streamlit** to allow users to input a movie title 
 2. **Recommendation Button**: Once a movie is selected, clicking the "Recommend" button generates the top 10 similar movies.
 3. **Movie Posters**: The TMDb API is used to fetch movie posters, and the recommended movies are displayed along with their posters in a visually appealing layout.
 
-## Screenshot
-
-![Screenshot from 2025-02-13 03-24-29](https://github.com/user-attachments/assets/8fe18ea6-2fd4-4177-991f-81c9724ca54f)
 
 
 ## Live Application
